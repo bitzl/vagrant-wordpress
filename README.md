@@ -3,6 +3,9 @@ vagrant-wordpress
 
 A vagrant base box for Wordpress development.
 
+Recommended use
+---------------
+
 To use import the base box, use
 
 ```
@@ -27,4 +30,8 @@ The development system uses the following credentials:
  - MySQL: wordpress/wordpress, Database `wordpress`
  - MySQL-Root: root/root
 
- 
+
+Build yourself
+--------------
+
+Just clone this repository and run `vagrant up`.
